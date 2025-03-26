@@ -43,7 +43,7 @@ const Portafolio = () => {
                 </section>
                 <section className="section">
                     <h2>Hoja de Vida</h2>
-                    <a href="ruta-de-tu-cv.pdf" target="_blank" className="cv-button">Descargar Hoja de Vida</a>
+                    <a href="https://drive.google.com/file/d/1w07UkYqm_hh5OuUq02biCmusVPsvDxxe/view?usp=sharing" target="_blank" className="cv-button">Descargar Hoja de Vida</a>
                 </section>
             </main>
             <footer>
