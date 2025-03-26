@@ -47,7 +47,7 @@ const Portafolio = () => {
                 </section>
             </main>
             <footer>
-                <p>© 2025 Tu Nombre. Todos los derechos reservados.</p>
+                <p>© 2025 Yesica Natalia. Todos los derechos reservados.</p>
             </footer>
         </>
     );
